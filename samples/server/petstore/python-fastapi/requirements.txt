@@ -16,7 +16,7 @@ httptools>=0.3.0,<0.7.0
 httpx==0.28.1
 idna==3.7
 itsdangerous==1.1.0
-Jinja2==3.1.4
+Jinja2==3.1.6
 MarkupSafe==2.0.1
 orjson==3.9.15
 promise==2.3
@@ -24,11 +24,11 @@ pydantic>=2
 python-dotenv==0.17.1
 python-multipart==0.0.18
 PyYAML>=5.4.1,<6.1.0
-requests==2.32.0
+requests==2.32.4
 Rx==1.6.1
 starlette==0.40.0
 typing-extensions==4.13.2
-ujson==4.0.2
+ujson==5.4.0
 urllib3==1.26.19
 uvicorn==0.13.4
 uvloop==0.21.0
