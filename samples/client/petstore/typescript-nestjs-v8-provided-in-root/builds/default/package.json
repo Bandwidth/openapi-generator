@@ -34,7 +34,7 @@
     "@nestjs/platform-express": "^8.0.0",
     "@nestjs/axios": "^2.0.0",
     "reflect-metadata": "^0.1.13",
-    "rimraf": "^2.6.3",
+    "rimraf": "^6.1.1",
     "rxjs": "^7.1.0"
   },
   "devDependencies": {
