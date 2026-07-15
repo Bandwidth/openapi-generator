@@ -6,6 +6,7 @@ metadata:
   description: OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
   annotations:
     github.com/project-slug: Bandwidth/openapi-generator
+    bandwidth.com/languages: Java
     organization: BW
     costCenter: Development - Software Infra
 spec:
